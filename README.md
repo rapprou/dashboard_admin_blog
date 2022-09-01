@@ -1,5 +1,8 @@
 ## _Tableau de bord - Gestion de taches utilisateurs_
 
+logo:
+![Logo](https://github.com/rapprou/dashboard_admin_blog/blob/main/img/logo.jpeg)
+
  ![alt text](https://github.com/rapprou/dashboard_admin_blog/blob/main/img/dashboard.jpeg) 
 
 Tableau de bord Admin pour la gestion utilisateurs powered by.
@@ -12,7 +15,10 @@ Tableau de bord Admin pour la gestion utilisateurs powered by.
 
 ## Author
 
-- [@rapprou](https://github.com/rapprou/dashboard_admin_blog)
+- [@rapprou](https://github.com/rapprou)
+
+
+
 
 
 
