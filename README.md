@@ -1,7 +1,9 @@
-## _Tableau de bord en PHP et Mysql_
+## _Tableau de bord - Gestion de taches utilisateurs_
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+Tableau de bord Admin pour la gestion utilisateurs powered HTML5 Markdown editor.
 
-- Type some Markdown on the left
-- See HTML in the right
+- PHP
+- MYSQL
+- HTML
+- CSS
+- BOOTSTRAP 5.1
