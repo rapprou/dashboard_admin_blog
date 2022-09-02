@@ -10,9 +10,6 @@ Tableau de bord Admin pour la gestion utilisateurs powered by.
 - CSS
 - BOOTSTRAP 5.1
 
-## Author
-
-- [@rapprou](https://github.com/rapprou)
 
 ### Créer auteur
 ![alt text](https://github.com/rapprou/dashboard_admin_blog/blob/main/img/fonc1.jpeg)
@@ -24,6 +21,9 @@ Tableau de bord Admin pour la gestion utilisateurs powered by.
 ![alt text](https://github.com/rapprou/dashboard_admin_blog/blob/main/img/fonct3.jpeg)
 
 
+## Author
+
+- [@rapprou](https://github.com/rapprou)
 
 
 
