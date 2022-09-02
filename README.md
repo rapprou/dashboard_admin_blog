@@ -14,13 +14,13 @@ Tableau de bord Admin pour la gestion utilisateurs powered by.
 
 - [@rapprou](https://github.com/rapprou)
 
-# Créer auteur
-![alt text](https://github.com/rapprou/dashboard_admin_blog/blob/main/img/fonct1.jpeg)
+### Créer auteur
+![alt text](https://github.com/rapprou/dashboard_admin_blog/blob/main/img/fonc1.jpeg)
 
-# Publier article
+### Publier article
 ![alt text](https://github.com/rapprou/dashboard_admin_blog/blob/main/img/fonct2.jpeg)
 
-# Liste d'articles
+### Liste d'articles
 ![alt text](https://github.com/rapprou/dashboard_admin_blog/blob/main/img/fonct3.jpeg)
 
 
